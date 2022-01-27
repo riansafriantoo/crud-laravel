@@ -64,6 +64,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 �
 
 
-Cara menjalankan Aplikasi:
+## Cara menjalankan Aplikasi:
 
 Lakukan migrate pada project menggunakan php artisan migrate, lalu jalankan aplikasi menggunakan php artisan serve pada terminal/git bash
